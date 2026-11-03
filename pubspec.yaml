@@ -1,5 +1,5 @@
 name: vox_royale
- description: Arabic-first voice social platform foundation
+description: Arabic-first voice social platform foundation
 publish_to: 'none'
 version: 0.1.0+1
 environment:
@@ -19,3 +19,4 @@ flutter:
     - assets/rooms/
     - assets/gifts/
     - assets/badges/
+    - assets/icons/
