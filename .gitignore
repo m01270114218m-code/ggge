@@ -1,0 +1,12 @@
+# Generated Flutter files and local secrets
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.env
+.env.*
+!.env.example
+android/local.properties
+ios/Flutter/Generated.xcconfig

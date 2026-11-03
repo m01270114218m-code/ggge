@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" preserveAspectRatio="xMidYMid slice">
+ <defs>
+  <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#25143f"/><stop offset=".55" stop-color="#54306e"/><stop offset="1" stop-color="#130f24"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#e797ef" stop-opacity=".75"/><stop offset="1" stop-color="#a557e9" stop-opacity="0"/></radialGradient>
+  <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0b0"/><stop offset=".48" stop-color="#d69b45"/><stop offset="1" stop-color="#fff0b0"/></linearGradient>
+ </defs>
+ <rect width="900" height="500" fill="url(#bg)"/>
+ <circle cx="670" cy="140" r="280" fill="url(#glow)"/>
+ <path d="M0 400Q220 310 450 390t450 0v110H0Z" fill="#0e0b1c" opacity=".82"/>
+ <path d="M65 367 160 255h580l95 112Z" fill="#42285a" stroke="url(#gold)" stroke-width="4"/>
+ <path d="M130 360 205 280h490l70 80Z" fill="#241633" stroke="#d8a754" stroke-opacity=".7" stroke-width="3"/>
+ <path d="M450 72 510 196h-33l22 102-72-126h35Z" fill="url(#gold)" opacity=".9"/>
+ <g fill="#f4d885"><circle cx="210" cy="121" r="4"/><circle cx="740" cy="90" r="5"/><circle cx="790" cy="245" r="3"/><circle cx="120" cy="220" r="3"/><circle cx="330" cy="190" r="4"/></g>
+ <path d="M295 390v-90m310 90v-90" stroke="#f1cf7c" stroke-width="4" opacity=".62"/>
+ <path d="M270 299h360" stroke="#ffe8a6" stroke-width="3" opacity=".7"/>
+</svg>
